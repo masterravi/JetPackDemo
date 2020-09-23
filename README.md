@@ -1,9 +1,6 @@
 # JetPackDemo
 MVVM Architecture with JetPack architectural component
 
-
-# Kotlin-Coroutines-MVVM-Demo - Kotlin Coroutines for Android with MVVM Architecture
-
 ## About this project: 
 * If you want to ho ahead with complete android project with RX Java with infinite scrlling using backpressre strategy  , then this project will help you alot.
 * Common use-cases of RX Java Rod DB for offline support in Android has been implemented in this project.
